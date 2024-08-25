@@ -2,4 +2,6 @@ streamlit==1.26.0
 PyPDF2==3.0.1
 docx2txt==0.8
 numpy==1.24.3
-torch==1.10.0
+faiss-cpu==1.7.2  # You might need to adjust the version depending on compatibility
+sentence-transformers==2.2.2
+transformers==4.30.0  # Ensure compatibility with 'rag-sequence-nq' model
