@@ -1,8 +1,7 @@
 streamlit
 PyPDF2
 docx2txt
-numpy
 faiss-cpu
-sentence-transformers
-torch
 transformers
+torch
+numpy
